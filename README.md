@@ -1,4 +1,4 @@
-# Yaz Kampı Veri Bilimine Giriş – Hafta 2 Ödevi
+# Yaz Kampı Veri Bilimine Giriş – Hafta 2 
 
 Bu repo, Yaz Kampı Veri Bilimi dersinde öğrendiklerimi **uygulamalı olarak** yaptığım ödevleri içermektedir.  
 Her bir soru ayrı `.py` dosyasında çözülmüştür:
